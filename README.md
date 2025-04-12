@@ -15,7 +15,7 @@ Case and plate files for **Klasse S60**, a 60% keyboard inspired by early kustom
 - [Hybrid Universal](https://github.com/14x71/KlasseS60/blob/main/DXF/S60_Plate_Hybrid_Universal)
 
 ### PCB
-Designed around Typ 60 / Typ 60SL, and the C3 unified daughterboard. Any 60% PCB with the appropriate cutouts and correct JST header placement will work.
+Designed around [Typ 60 / Typ 60SL PCB](https://www.axiomstudios.shop/collections/typ-series/products/typ-60-extras), and the C3 unified daughterboard. Any 60% PCB with the appropriate cutouts and correct JST header placement will work.
 
 ### Hardware
 - Case screws: M2.5 x 10mm * 8
